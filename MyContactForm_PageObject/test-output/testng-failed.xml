@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Two.MyContact_E2E_TestNG">
+        <methods>
+          <include name="formApperance_Step8"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="formQuestion_step5"/>
+          <include name="autoResponder_step4"/>
+          <include name="formButtonsAndSite"/>
+          <include name="emailSubject_Step3"/>
+        </methods>
+      </class> <!-- Two.MyContact_E2E_TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
