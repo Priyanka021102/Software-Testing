@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="PASS" value="021102@gmail"/>
+  <parameter name="USER" value="AliceCooper021102"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="projectpackage.projectclass3">
+        <methods>
+          <include name="log"/>
+        </methods>
+      </class> <!-- projectpackage.projectclass3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

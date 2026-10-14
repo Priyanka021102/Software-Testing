@@ -1,0 +1,57 @@
+[INFO ] 2026-01-04 11:52:24.236 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 11:52:25.636 [main] projectclass - Checking Title
+[INFO ] 2026-01-04 11:52:25.655 [main] projectclass - Checking Images
+[INFO ] 2026-01-04 11:52:25.693 [main] projectclass - Checking Display
+[WARN ] 2026-01-04 11:52:25.764 [main] projectclass - Exiting
+[INFO ] 2026-01-04 12:19:03.185 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 12:19:50.628 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 12:21:03.393 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 12:21:38.490 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 12:22:19.150 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 12:30:17.651 [main] projectclass - Visiting Website
+[INFO ] 2026-01-04 15:12:41.279 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:12:41.866 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:12:44.124 [main] projectclass3 - Checking Images
+[INFO ] 2026-01-04 15:12:44.161 [main] projectclass3 - Checking Display
+[WARN ] 2026-01-04 15:12:44.262 [main] projectclass3 - Exiting
+[INFO ] 2026-01-04 15:14:03.627 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:14:13.664 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:14:17.944 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:14:17.966 [main] projectclass3 - Checking Images
+[INFO ] 2026-01-04 15:14:18.012 [main] projectclass3 - Checking Display
+[WARN ] 2026-01-04 15:14:18.080 [main] projectclass3 - Exiting
+[INFO ] 2026-01-04 15:41:02.158 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:41:05.179 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:41:05.203 [main] projectclass3 - Checking Home Page
+[INFO ] 2026-01-04 15:42:15.997 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:42:18.842 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:42:18.872 [main] projectclass3 - Checking Home Page
+[INFO ] 2026-01-04 15:47:52.754 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:47:55.009 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:47:55.048 [main] projectclass3 - Checking Home Page
+[INFO ] 2026-01-04 15:48:32.277 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:48:34.310 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:48:34.329 [main] projectclass3 - Checking Home Page
+[INFO ] 2026-01-04 15:48:34.363 [main] projectclass3 - Checking Display
+[WARN ] 2026-01-04 15:48:34.465 [main] projectclass3 - Exiting
+[INFO ] 2026-01-04 15:49:03.920 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:49:06.561 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:49:06.592 [main] projectclass3 - Checking Home Page
+[INFO ] 2026-01-04 15:50:08.767 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:50:14.216 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:54:48.058 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:54:49.798 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:54:57.022 [main] projectclass3 - Visiting Website
+[INFO ] 2026-01-04 15:54:59.575 [main] projectclass3 - Checking Title
+[INFO ] 2026-01-04 15:58:29.355 [main] projectclass2 - Visiting Website
+[INFO ] 2026-01-04 15:58:34.730 [main] projectclass2 - Checking Title
+[INFO ] 2026-01-04 15:58:34.750 [main] projectclass2 - Username
+[INFO ] 2026-01-04 15:58:35.929 [main] projectclass2 - Password
+[INFO ] 2026-01-04 15:58:37.115 [main] projectclass2 - Logining in
+[WARN ] 2026-01-04 15:58:40.810 [main] projectclass2 - Exiting
+[INFO ] 2026-01-04 16:00:04.506 [main] projectclass2 - Visiting Website
+[INFO ] 2026-01-04 16:00:06.955 [main] projectclass2 - Checking Title
+[INFO ] 2026-01-04 16:00:06.980 [main] projectclass2 - Username
+[INFO ] 2026-01-04 16:00:08.213 [main] projectclass2 - Password
+[INFO ] 2026-01-04 16:00:09.342 [main] projectclass2 - Logging in
+[WARN ] 2026-01-04 16:00:12.264 [main] projectclass2 - Exiting
