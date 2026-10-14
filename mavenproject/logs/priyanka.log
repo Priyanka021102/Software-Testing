@@ -1,0 +1,15 @@
+[INFO ] 2025-10-15 18:53:39.760 [main] logfile1 - Visiting Website
+[INFO ] 2025-10-15 18:53:41.277 [main] logfile1 - Checking Title
+[INFO ] 2025-10-15 18:53:41.308 [main] logfile1 - Checking Images
+[INFO ] 2025-10-15 18:53:41.342 [main] logfile1 - Checking Display
+[WARN ] 2025-10-15 18:53:41.414 [main] logfile1 - Exiting
+[INFO ] 2026-01-04 11:50:23.267 [main] logfile1 - Visiting Website
+[INFO ] 2026-01-04 11:50:24.669 [main] logfile1 - Checking Title
+[INFO ] 2026-01-04 11:50:24.723 [main] logfile1 - Checking Images
+[INFO ] 2026-01-04 11:50:24.766 [main] logfile1 - Checking Display
+[WARN ] 2026-01-04 11:50:24.867 [main] logfile1 - Exitings
+[INFO ] 2026-01-04 15:44:06.856 [main] logfile1 - Visiting Website
+[INFO ] 2026-01-04 15:44:07.887 [main] logfile1 - Checking Title
+[INFO ] 2026-01-04 15:44:07.997 [main] logfile1 - Checking Images
+[INFO ] 2026-01-04 15:44:08.101 [main] logfile1 - Checking Display
+[WARN ] 2026-01-04 15:44:08.225 [main] logfile1 - Exiting
